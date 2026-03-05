@@ -16,7 +16,7 @@
                   <Font size="24.0" />
                </font>
             </Label>
-            <ProgressBar prefHeight="28.0" prefWidth="598.0" progress="0.0" fx:id="loadingBar" />
+            <ProgressBar prefHeight="28.0" prefWidth="598.0" progress="0.0" fx:id="loadBar" />
          </children>
       </VBox>
    </children>

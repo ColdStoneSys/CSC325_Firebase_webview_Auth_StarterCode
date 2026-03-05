@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: #151D28;
+    -fx-text-background-color:white;
+    -fx-font-family:Verdana, Geneva, Tahoma, sans-serif;
+    -fx-font-size:28pt;
+}
+
+.loadTXT{
+    --fx-font-size:32pt;
+}
+
+.loadBar{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
