@@ -73,8 +73,8 @@ public class App extends Application {
                     public void run(){
                         Platform.runLater(() ->{
                             primaryStage.setScene(mainScene);
-                            primaryStage.setHeight(571.0);
-                            primaryStage.setWidth(894.0);
+                            primaryStage.setHeight(600.0);
+                            primaryStage.setWidth(900.0);
                         });
 
                     }

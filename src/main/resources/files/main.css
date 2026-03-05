@@ -13,3 +13,34 @@
     -fx-background-color: transparent;
     -fx-border-color: transparent;
 }
+
+.Buttons{
+    -fx-background-color:#0f73ff;
+    -fx-text-fill:white;
+    -fx-font-size:8pt;
+}
+
+.mainBox{
+    -fx-background-color: #151D28;
+}
+
+.TableCol{
+    -fx-background-color: #0f73ff;
+}
+
+.menuItem .label{
+    -fx-text-fill:white;
+    -fx-background-color: #151D28;
+}
+
+.menu .label{
+    -fx-use-system-menu-bar: false;
+    -fx-text-fill:white;
+}
+
+
+
+.textarea .content{
+    -fx-background-color: #151D28;
+    -fx-text-fill:white;
+}
