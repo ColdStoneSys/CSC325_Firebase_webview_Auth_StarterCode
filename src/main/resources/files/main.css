@@ -44,3 +44,7 @@
     -fx-background-color: #151D28;
     -fx-text-fill:white;
 }
+
+.textarea{
+    -fx-text-fill:white;
+}
